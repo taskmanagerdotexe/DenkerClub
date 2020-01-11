@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RECHTECK
+comment1.params=lNeu\ hNeu\ xNeu\ yNeu\ fNeu
+comment1.target=RECHTECK(int,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ zeichnen()
+numComments=3
